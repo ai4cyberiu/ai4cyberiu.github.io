@@ -99,7 +99,7 @@ The industry provides a range of services such as emergency medical care, matern
  Industry's Scale:
 
 1.By 2027, the market for hospital services is projected to reach 16.45 trillion.
-[Biospace Link](https://www.biospace.com/article/hospital-services-market-size-to-hit-us-16-45-trillion-by-2027/#:~:text=According%20to%20Precedence%20Research%2C%20the,8.2%25%20from%202020%20to%202027)
+[Click here to read more](https://www.biospace.com/article/hospital-services-market-size-to-hit-us-16-45-trillion-by-2027/#:~:text=According%20to%20Precedence%20Research%2C%20the,8.2%25%20from%202020%20to%202027)
 
 2.As of 2021, the worldwide healthcare sector is valued at $12 trillion and is currently the industry experiencing the most rapid growth.
-[Zippia Link](https://www.zippia.com/advice/us-healthcare-industry-statistics/)
+[Click here to read more](https://www.zippia.com/advice/us-healthcare-industry-statistics/)

@@ -14,7 +14,7 @@
      <td>Introduction & Industry Background <br>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In</td>
     </tr>
      <tr>
-     <td>Williams, Samuel Modupeoluwa</td>
+     <td>Samuel Williams</td>
      <td>willsamo@iu.edu	</td>
      <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
     </tr>

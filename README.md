@@ -34,6 +34,7 @@
      <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In<br>AI4Cyber Platform (Website)</td>
     </tr>
 </table>
+
 ## Overview
 The connection between healthcare and economic development is greatly impacted by factors like the health of the population, which results in greater efficiency and increased per capita income. Healthcare plays a vital role in driving economic development, and the significance of human capital in fostering economic growth cannot be emphasized enough.
 
@@ -46,46 +47,46 @@ Project Scope: Our project will be centered specifically on the hospital sector.
 
 ## Cyber Security Threats: 
 ### 1.	Ransomware
-•	Phishing for Information
-•	Exploit Public-Facing Application
-•	Impair Defense
-•	Exfiltration Over Web Service
-•	Phishing
-•	External Remote Services
+    1. Phishing for Information
+    2. Exploit Public-Facing Application
+    3. Impair Defense
+    4. Exfiltration Over Web Service
+    5. Phishing
+    6. External Remote Services
 ### 2.	Insider Threats
-•	Trusted Relationship
-•	Exploit Public-Facing Application
-•	User Execution
+    1. Trusted Relationship
+    2. Exploit Public-Facing Application
+    3. User Execution
 ### 3.	Data Breaches
-•	Data from Information Repositories
-•	Data from Configuration Repository
-•	Account Access Removal
-•	Data Encrypted for Impact
-•	Data Destruction
+    1. Data from Information Repositories
+    2. Data from Configuration Repository
+    3. Account Access Removal
+    4. Data Encrypted for Impact
+    5. Data Destruction
 ### 4.	DDoS (Distributed denial of service)
-•	Acquire Infrastructure
-•	Active Scanning
-•	Gather Victim Identity Information
-•	Compromise Infrastructure
-•	Resource Development
-•	Network Denial of Service
+    1. Acquire Infrastructure
+    2. Active Scanning
+    3. Gather Victim Identity Information
+    4. Compromise Infrastructure
+    5. Resource Development
+    6. Network Denial of Service
 ### 5.	Business Email Compromise
-•	Spear-phishing for Information
-•	Phishing for Information
-•	Gather Victim Org Information
-•	Abuse Elevation Control Mechanism
+    1. Spear-phishing for Information
+    2. Phishing for Information
+    3. Gather Victim Org Information
+    4. Abuse Elevation Control Mechanism
  
 ## The role of technology in the healthcare sector, specifically within hospitals, is of great importance: 
-1.	Medical devices connected to the Internet of Things (IoT).
-2.	Technologies such as mobile health and telehealth.
-3.	The impact of the Cures Act on remote patient access.
-4.	IT departments should be well staffed and funded.
-5.	Sufficient training provided to employees regarding security.
-6.	Safeguarding patients' privacy and records against both external and internal risks.
-7.	Compliance with regulations.
-8.	Increased efficiency.
-9.	Reduction in expenses and greater value.
-10.	Development of hospital brand credibility and reputation.
+    1. Medical devices connected to the Internet of Things (IoT).
+    2. Technologies such as mobile health and telehealth.
+    3. The impact of the Cures Act on remote patient access.
+    4. IT departments should be well staffed and funded.
+    5. Sufficient training provided to employees regarding security.
+    6. Safeguarding patients' privacy and records against both external and internal risks.
+    7. Compliance with regulations.
+    8. Increased efficiency.
+    9. Reduction in expenses and greater value.
+    10. Development of hospital brand credibility and reputation.
 
 ## Industry's Services
 The industry provides a range of services such as emergency medical care, maternity care, nursing, surgery, pharmacy, diagnostic procedures including laboratory and X-ray, as well as specialized services like cardiology, cancer care, pediatrics, and rehabilitation.

@@ -2,23 +2,38 @@
 ## Kelly School Of Business, Indiana University
 ![alt text](https://itbrief.com.au/uploads/story/2022/08/09/GettyImages-1201872205.webp "Logo Title Text 1")
 ### Team composition:
-| Name	| Email	| Contributions |
-| :----- | :------:| :------| 
-|Samir Aghamaliyev|saghama@iu.edu|Introduction & Industry Background|
-| | | Threat Trends & Critical Asset Identification (1 each)
-| | | Diamond model – 3 (for models per each critical asset identified)
-| | | Intelligence Buy-In|
-|Williams, Samuel Modupeoluwa |willsamo@iu.edu	|Threat Trends & Critical Asset Identification (1 each)
-| | | Diamond model – 3 (for models per each critical asset identified)
-|Mauricio Alvarez|maualva@iu.edu |Threat Trends & Critical Asset Identification (1 each)
-| | | Diamond model – 3 (for models per each critical asset identified)
-|Abdur Rahman|rahmaab@iu.edu|Threat Trends & Critical Asset Identification (1 each)
-| | | Diamond model – 3 (for models per each critical asset identified)
-|Girish Dharmapurikar|gdharma@iu.edu|Threat Trends & Critical Asset Identification (1 each)
-| | | Diamond model – 3 (for models per each critical asset identified)
-| | | Intelligence Buy-In
-| | | AI4Cyber Platform (Website)
-
+<table>
+    <tr>
+     <th>Name</th>
+     <th>Email</th>
+     <th>Contributions</th>
+    </tr>
+     <tr>
+     <td>Samir Aghamaliyev</td>
+     <td>saghama@iu.edu</td>
+     <td>Introduction & Industry Background <br>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In</td>
+    </tr>
+     <tr>
+     <td>Williams, Samuel Modupeoluwa</td>
+     <td>willsamo@iu.edu	</td>
+     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+    </tr>
+     <tr>
+     <td>Mauricio Alvarez</td>
+     <td>maualva@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+    </tr>
+     <tr>
+     <td>Abdur Rahman</td>
+     <td>rahmaab@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+    </tr>    
+     <tr>
+     <td>Girish Dharmapurikar</td>
+     <td>gdharma@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In<br>AI4Cyber Platform (Website)</td>
+    </tr>
+</table>
 ## Overview
 The connection between healthcare and economic development is greatly impacted by factors like the health of the population, which results in greater efficiency and increased per capita income. Healthcare plays a vital role in driving economic development, and the significance of human capital in fostering economic growth cannot be emphasized enough.
 

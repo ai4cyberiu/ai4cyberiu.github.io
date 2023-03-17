@@ -2,8 +2,8 @@
 ## Kelly School Of Business, Indiana University
 ![alt text](https://itbrief.com.au/uploads/story/2022/08/09/GettyImages-1201872205.webp "Logo Title Text 1")
 ### Team composition:
-<table>
-    <tr>
+<table style="width:100%">
+     <tr>
      <th>Name</th>
      <th>Email</th>
      <th>Contributions</th>

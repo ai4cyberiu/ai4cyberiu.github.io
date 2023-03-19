@@ -72,17 +72,35 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 <li>Pharmacists</li>
 </ul>
 
-### <B> Industry Size and Key Players </B> <sup id="cite_ref-4" class="reference"><a href="https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market">&#91;4&#93;</a></sup>
+#### <B> Industry Size and Key Players </B> <sup id="cite_ref-4" class="reference"><a href="https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market">&#91;4&#93;</a></sup>
 <ul>
 <li>The U.S. hospital facilities market size was estimated at <B>USD 1,318.9 billion in 2021</B> and was estimated at <B>USD 1,411.7 billion in 2022</B>.</li> 
 <li>Some major players operating in the U.S. hospital facilities market include The John Hopkins Hospital, Mayo Clinic, Cleveland Clinic, Cedars-Sinai, Massachusetts General Hospital, UCSF Health, NewYork-Presbyterian Hospital, Brigham and Women's Hospital, Ronald Reagan UCLA Medical Center, and Northwestern Memorial Hospital</li>
 </ul>
 
-## Data
-Patient information is collected from various healthcare sources, including hospitals, emergency and home care services, and contains crucial information about diagnoses. This information may include personal details such as names, addresses, age, family history, and social security numbers. As a result, healthcare data is a prime target for cyber attacks, and it is crucial to have proper cybersecurity measures in place to protect it.
+## Significance of Information Technology 
+<ul>
+<li>Patient information is collected from various healthcare sources, including hospitals, emergency and home care services, and contains crucial information about diagnoses. This information may include personal details such as names, addresses, age, family history, and social security numbers. As a result, healthcare data is a prime target for cyber attacks, and it is crucial to have proper cybersecurity measures in place to protect it.
+</li>
+<li>The healthcare industry has been facing persistent cyberattacks since the COVID-19 pandemic began. The CyberPeace Institute has studied data from 33 countries and analyzed over 235 cyberattacks, excluding data breaches, on the healthcare sector. These attacks have resulted in the theft of more than 10 million records, which include private information like social security numbers, medical records, financial data, and confidential information of medical donors. On average, each attack breaches around 155,000 records, but some incidents have caused the breach of over 3 million records.
+</li>
+<li>Information technology personnel and expertise is critical to protect hospital technologies. Understanding the threat landscape facing the industry is very important for protecting the critical assets of the industry and its companies
+</li>
+</ul>
+
+#### <B> Hospital Information System Groups </B> <sup id="cite_ref-5" class="reference"><a href="https://chat.openai.com/chat">&#91;5&#93;</a></sup>
+<ol>
+<li>Electronic Health Records (EHR)</li>
+<li>Medical Imaging</li>
+<li>Telemedicine</li>
+<li>Medical Devices</li>
+<li>Health Information Technology (HIT)</li>
+<li>Patient Monitoring Systems</li>
+<li>Electronic Medication Administration</li>
+</ol>
 
 ## Cyber Information
-The healthcare industry has been facing persistent cyberattacks since the COVID-19 pandemic began. The CyberPeace Institute has studied data from 33 countries and analyzed over 235 cyberattacks, excluding data breaches, on the healthcare sector. These attacks have resulted in the theft of more than 10 million records, which include private information like social security numbers, medical records, financial data, and confidential information of medical donors. On average, each attack breaches around 155,000 records, but some incidents have caused the breach of over 3 million records.
+The healthcare industry has been facng persistent cyberattacks since the COVID-19 pandemic began. The CyberPeace Institute has studied data from 33 countries and analyzed over 235 cyberattacks, excluding data breaches, on the healthcare sector. These attacks have resulted in the theft of more than 10 million records, which include private information like social security numbers, medical records, financial data, and confidential information of medical donors. On average, each attack breaches around 155,000 records, but some incidents have caused the breach of over 3 million records.
 Project Scope: Our project will be centered specifically on the hospital sector.
 
 ## Cyber Security Threats:

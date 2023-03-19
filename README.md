@@ -12,33 +12,72 @@
      <tr>
      <td>Samir Aghamaliyev</td>
      <td>saghama@iu.edu</td>
-     <td>Introduction & Industry Background <br>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In</td>
+     <td>Introduction & Industry Background <br>Threat Trends & Critical Asset Identification<br>Diamond model (1)<br>Intelligence Buy-In</td>
     </tr>
      <tr>
      <td>Samuel Williams</td>
      <td>willsamo@iu.edu	</td>
-     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+     <td>Introduction & Background<br>Threat Trends & Critical Asset Identification<br>Diamond models (2-5)<br>Presentation Cohesion, Editing
+     </td>
     </tr>
      <tr>
      <td>Mauricio Alvarez</td>
      <td>maualva@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations</td>
     </tr>
      <tr>
      <td>Abdur Rahman</td>
      <td>rahmaab@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations </td>
     </tr>    
      <tr>
      <td>Girish Dharmapurikar</td>
      <td>gdharma@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification (1 each)<br>Diamond model – 3 (for models per each critical asset identified)<br>Intelligence Buy-In<br>AI4Cyber Platform (Website)</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations and modifications <br>Intelligence Buy-In - Consultation <br>AI4Cyber Platform (Website)</td>
     </tr>
 </table>
-# Introduction and Industry Background
 
-## Overview
-The connection between healthcare and economic development is greatly impacted by factors like the health of the population, which results in greater efficiency and increased per capita income. Healthcare plays a vital role in driving economic development, and the significance of human capital in fostering economic growth cannot be emphasized enough.
+## Background:
+In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries.
+
+#### Healthcare Industries:
+<ol>
+<li>Drugs</li>
+<li>Medical Equipment</li>
+<li>Managed Healthcare (Insurance)</li>
+<li>Healthcare Facilities (Hospitals)</li>     
+</ol>
+
+#### Our Focus:
+<B>Healthcare Facilities (Hospitals) </B>
+
+__Key services within the hospital industry include, hospitals, clinics, labs, psychiatric facilities, and nursing homes. These services are provided by millions of providers globally. Approximately 9.2 Million physicians, 19.4 millions nurses and midwives, 1.9 million dentist and dentistry personnel, 2.6 million pharmacists and pharmacist personnel, and over 1.3 million community personnel.__
+
+## Industry Details, Size & Major Players
+
+#### Industry Details:
+The hospital industry provides medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.
+
+#### Services:
+<ul>
+<li>Outpatient</li>
+<li>Inpatient</li>
+</ul>
+
+#### Providers:
+<ul>
+<li>Physicians</li>
+<li>Nurses</li>
+<li>Dentist</li>
+<li>Pharmacists</li>
+</ul>
+
+### Industry Size and Key Players
+<ul>
+<li>The U.S. hospital facilities market size was estimated at <B>USD 1,318.9 billion in 2021</B> and was estimated at <B>USD 1,411.7 billion in 2022</B>[^1].</li> 
+<li>Some major players operating in the U.S. hospital facilities market include The John Hopkins Hospital, Mayo Clinic, Cleveland Clinic, Cedars-Sinai, Massachusetts General Hospital, UCSF Health, NewYork-Presbyterian Hospital, Brigham and Women's Hospital, Ronald Reagan UCLA Medical Center, and Northwestern Memorial Hospital</li>
+</ul>
+[^1]: My reference.
 
 ## Data
 Patient information is collected from various healthcare sources, including hospitals, emergency and home care services, and contains crucial information about diagnoses. This information may include personal details such as names, addresses, age, family history, and social security numbers. As a result, healthcare data is a prime target for cyber attacks, and it is crucial to have proper cybersecurity measures in place to protect it.

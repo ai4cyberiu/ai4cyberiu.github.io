@@ -113,28 +113,26 @@ The hospital industry provides medical, diagnostic, and treatment services that 
      <td> <a href="https://assets.sophos.com/X24WTUEQ/at/4wxp262kpf84t3bxf32wrctm/sophos-state-of-ransomware-healthcare-2022-wp.pdf">Sophos Report</a></td>
     </tr>
      <tr>
-     <td>Samuel Williams</td>
-     <td>willsamo@iu.edu	</td>
-     <td>IntroductRansomware![Uploading image.png…]()nd<br>Threat Trends & Critical Asset Identification<br>Diamond models (2-5)<br>Presentation Cohesion, Editing
-     </td>
+     <td>Data Breaches</td>
+     <td>The healthcare sector experiences a significantly greater number of data breaches compared to other industries. In 2020, there were an average of 1.76 data breaches per day in the healthcare field. Although HIPAA has established strict protocols to safeguard confidential health data from unauthorized access, many healthcare organizations struggle to implement and comply with these security regulations.</td>
+     <td> <a href="https://www.hipaajournal.com/healthcare-data-breach-statistics/">HIPAA Journal</a></td>
+    </tr> 
+     <tr>
+     <td>Phishing</td>
+     <td>Phishing is the primary cybersecurity risk that the healthcare sector faces. It involves the inclusion of harmful links in emails that appear harmless. Within the healthcare industry, email phishing is the most used technique for carrying out phishing attacks.</td>
+     <td> <a href="https://www.upguard.com/blog/biggest-cyber-threats-in-healthcare">Biggest Cyber Threats in Healthcare (Updated for 2023) | UpGuard</a></td>
     </tr>
      <tr>
-     <td>Mauricio Alvarez</td>
-     <td>maualva@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations</td>
-    </tr>
+     <td>DDoS Attacks</td>
+     <td>DDoS stands for Distributed Denial of Service. Attackers can force production servers offline by flooding the system with fake connection requests. This can bring down a system for an extended period</td>
+     <td> <a href="https://www.upguard.com/blog/biggest-cyber-threats-in-healthcare">Biggest Cyber Threats in Healthcare (Updated for 2023) | UpGuard</a></td>
+    </tr>  
      <tr>
-     <td>Abdur Rahman</td>
-     <td>rahmaab@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations </td>
-    </tr>    
-     <tr>
-     <td>Girish Dharmapurikar</td>
-     <td>gdharma@iu.edu</td>
-     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations and modifications <br>Intelligence Buy-In - Consultation <br>AI4Cyber Platform (Website)</td>
+     <td>Log4Shell</td>
+     <td>Ubiquitous, Java-based, logging tool. This vulnerability was first discovered November 2021. A notable members of the CISA called it "the worst she's seen in her career". The Log4Shell vulnerability is likely present in hundreds of millions of IT systems</td>
+     <td> <a href="https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf">202302091300_2022 Retrospective & 2023 Look Ahead_TLPCLEAR (hhs.gov)</a></td>
     </tr>
 </table>
-
 
 ## Cyber Security Threats:
 

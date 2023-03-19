@@ -148,7 +148,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 * The most prolific malware users are cyber criminals, motivated by theft of personal and financial information. 
 * Many of these are used to target the health sector. Top malware found in the industry in 2022 are mentioned in table below.
 
-![Malware_Varients](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Malware%20Varient.jpg "Malware_Varients")
+![Malware_Varients](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Malware%20Varient.jpg "Malware Varients")
 
 ## Critial Assets:
 <table style="width:100%">
@@ -183,52 +183,10 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 </tr>
 </table>
 
-### 1.	Ransomware
-1. Phishing for Information
-2. Exploit Public-Facing Application
-3. Impair Defense
-4. Exfiltration Over Web Service
-5. Phishing
-6. External Remote Services
+## Diamond Models
 
-### 2.	Insider Threats
-1. Trusted Relationship
-2. Exploit Public-Facing Application
-3. User Execution
-
-### 3.	Data Breaches
-1.  Data from Information Repositories
-2.  Data from Configuration Repository
-3.  Account Access Removal
-4.  Data Encrypted for Impact
-5.  Data Destruction
-
-### 4.	DDoS (Distributed denial of service)
-1. Acquire Infrastructure
-2. Active Scanning
-3. Gather Victim Identity Information
-4. Compromise Infrastructure
-5. Resource Development
-6. Network Denial of Service
-
-### 5.	Business Email Compromise
-1. Spear-phishing for Information
-2. Phishing for Information
-3. Gather Victim Org Information
-4. Abuse Elevation Control Mechanism
- 
-## The role of technology in the healthcare sector, specifically within hospitals, is of great importance: 
-
-1. Medical devices connected to the Internet of Things (IoT).
-2. Technologies such as mobile health and telehealth.
-3. The impact of the Cures Act on remote patient access.
-4. IT departments should be well staffed and funded.
-5. Sufficient training provided to employees regarding security.
-6. Safeguarding patients' privacy and records against both external and internal risks.
-7. Compliance with regulations.
-8. Increased efficiency.
-9. Reduction in expenses and greater value.
-10. Development of hospital brand credibility and reputation.
+#### Critial Asset : Personal Computers
+![PC_1]()
 
 ## Industry's Services
 The industry provides a range of services such as emergency medical care, maternity care, nursing, surgery, pharmacy, diagnostic procedures including laboratory and X-ray, as well as specialized services like cardiology, cancer care, pediatrics, and rehabilitation.

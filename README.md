@@ -38,9 +38,9 @@
 </table>
 
 ## Background:
-In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries <sup id="cite_ref-1" class="reference"><a href="https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.">&#91;1&#93;</a></sup>.
+In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries<sup id="cite_ref-1" class="reference"><a href="https://www.futurelearn.com/info/blog/explore-the-healthcare-industry">&#91;1&#93;</a></sup>.
 
-#### <B>Healthcare Industries</B>:
+#### <B>Healthcare Industries</B> <sup id="cite_ref-2" class="reference"><a href="https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.">&#91;2&#93;</a></sup>:
 <ol>
 <li>Drugs</li>
 <li>Medical Equipment</li>
@@ -48,23 +48,23 @@ In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic
 <li>Healthcare Facilities (Hospitals)</li>     
 </ol>
 
-#### Our Focus:
+#### <B>Our Focus</B>:
 <B>Healthcare Facilities (Hospitals) </B>
 
 __Key services within the hospital industry include, hospitals, clinics, labs, psychiatric facilities, and nursing homes. These services are provided by millions of providers globally. Approximately 9.2 Million physicians, 19.4 millions nurses and midwives, 1.9 million dentist and dentistry personnel, 2.6 million pharmacists and pharmacist personnel, and over 1.3 million community personnel.__
 
 ## Industry Details, Size & Major Players
 
-#### Industry Details:
+#### <B>Industry Details</B> <sup id="cite_ref-3" class="reference"><a href="https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients">&#91;3&#93;</a></sup>:
 The hospital industry provides medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.
 
-#### Services:
+#### <B> Services </B>:
 <ul>
 <li>Outpatient</li>
 <li>Inpatient</li>
 </ul>
 
-#### Providers:
+#### <B> Providers </B>:
 <ul>
 <li>Physicians</li>
 <li>Nurses</li>
@@ -72,7 +72,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 <li>Pharmacists</li>
 </ul>
 
-### Industry Size and Key Players
+### <B> Industry Size and Key Players </B> <sup id="cite_ref-4" class="reference"><a href="https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market">&#91;4&#93;</a></sup>
 <ul>
 <li>The U.S. hospital facilities market size was estimated at <B>USD 1,318.9 billion in 2021</B> and was estimated at <B>USD 1,411.7 billion in 2022</B>.</li> 
 <li>Some major players operating in the U.S. hospital facilities market include The John Hopkins Hospital, Mayo Clinic, Cleveland Clinic, Cedars-Sinai, Massachusetts General Hospital, UCSF Health, NewYork-Presbyterian Hospital, Brigham and Women's Hospital, Ronald Reagan UCLA Medical Center, and Northwestern Memorial Hospital</li>

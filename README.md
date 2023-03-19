@@ -99,9 +99,42 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 <li>Electronic Medication Administration</li>
 </ol>
 
-## Cyber Information
-The healthcare industry has been facng persistent cyberattacks since the COVID-19 pandemic began. The CyberPeace Institute has studied data from 33 countries and analyzed over 235 cyberattacks, excluding data breaches, on the healthcare sector. These attacks have resulted in the theft of more than 10 million records, which include private information like social security numbers, medical records, financial data, and confidential information of medical donors. On average, each attack breaches around 155,000 records, but some incidents have caused the breach of over 3 million records.
-Project Scope: Our project will be centered specifically on the hospital sector.
+## Relevant Threat Trends
+<table style="width:100%">
+     <tr>
+     <th>Threat</th>
+     <th>Description</th>
+     <th>Source</th>
+    </tr>
+     <tr>
+     <td>Ransomware</td>
+     <td>According to the last “State of Ransomware in Healthcare” from Sophos, 66% of healthcare organizations were hit by ransomware in 2021, up from 34% in 2020.
+     </td>
+     <td> <a href="https://assets.sophos.com/X24WTUEQ/at/4wxp262kpf84t3bxf32wrctm/sophos-state-of-ransomware-healthcare-2022-wp.pdf">Sophos Report</a></td>
+    </tr>
+     <tr>
+     <td>Samuel Williams</td>
+     <td>willsamo@iu.edu	</td>
+     <td>IntroductRansomware![Uploading image.png…]()nd<br>Threat Trends & Critical Asset Identification<br>Diamond models (2-5)<br>Presentation Cohesion, Editing
+     </td>
+    </tr>
+     <tr>
+     <td>Mauricio Alvarez</td>
+     <td>maualva@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations</td>
+    </tr>
+     <tr>
+     <td>Abdur Rahman</td>
+     <td>rahmaab@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations </td>
+    </tr>    
+     <tr>
+     <td>Girish Dharmapurikar</td>
+     <td>gdharma@iu.edu</td>
+     <td>Threat Trends & Critical Asset Identification<br>Diamond model - Consultations and modifications <br>Intelligence Buy-In - Consultation <br>AI4Cyber Platform (Website)</td>
+    </tr>
+</table>
+
 
 ## Cyber Security Threats:
 

@@ -40,7 +40,7 @@
 ## Background:
 In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries <sup id="cite_ref-1" class="reference"><a href="https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.">&#91;1&#93;</a></sup>.
 
-#### Healthcare Industries:
+#### <B>Healthcare Industries</B>:
 <ol>
 <li>Drugs</li>
 <li>Medical Equipment</li>

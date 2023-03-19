@@ -186,14 +186,58 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 ## Diamond Models
 
 #### Critial Asset : Personal Computers
-![PC_1]()
+![PC_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Personal Computers - DM 1.1")
+![PC_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Personal Computers - DM 1.2")
+![PC_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Personal Computers - DM 1.3")
 
-## Industry's Services
-The industry provides a range of services such as emergency medical care, maternity care, nursing, surgery, pharmacy, diagnostic procedures including laboratory and X-ray, as well as specialized services like cardiology, cancer care, pediatrics, and rehabilitation.
- Industry's Scale:
+#### Critial Asset : IoT Medical Devices
+![IOT_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "IOT - DM 1.1")
+![IOT_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "IOT - DM 1.2")
+![IOT_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "IOT - DM 1.3")
 
-1.By 2027, the market for hospital services is projected to reach 16.45 trillion.
-[Click here to read more](https://www.biospace.com/article/hospital-services-market-size-to-hit-us-16-45-trillion-by-2027/#:~:text=According%20to%20Precedence%20Research%2C%20the,8.2%25%20from%202020%20to%202027)
+#### Critial Asset : Mobile Devices
+![MD_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Mobile Device - DM 1.1")
+![MD_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Mobile Device - DM 1.2")
+![MD_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Mobile Device - DM 1.3")
 
-2.As of 2021, the worldwide healthcare sector is valued at $12 trillion and is currently the industry experiencing the most rapid growth.
-[Click here to read more](https://www.zippia.com/advice/us-healthcare-industry-statistics/)
+#### Critial Asset : Patient Data
+![PD_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Patient Data - DM 1.1")
+![PD_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Patient Data - DM 1.2")
+![PD_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Patient Data - DM 1.3")
+
+#### Critial Asset : Information Systems
+![IS_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Information Systems - DM 1.1")
+![IS_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Information Systems - DM 1.2")
+![IS_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal%20Computer%20-%20DM%20-%201.1.png "Information Systems - DM 1.3")
+
+## Intelligence Buy In
+
+<ul>
+    <li><B>The current state of the environment</B><sup id="cite_ref-8" class="reference"><a href="https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf">&#91;8&#93;</a></sup><br> The healthcare industry is a prime target for malicious individuals or groups because of the valuable and sensitive information it holds, including Personally Identifiable Information (PII). This is exacerbated by the increase in the use of the Internet of Medical Things (IoMT), as well as the insufficient cybersecurity protection, legacy systems, and inadequate cybersecurity staffing training. Furthermore, there are global threats from nation-states, such as China and Russia, who have sponsored advanced persistent threat (APT) groups to attack healthcare organizations in the past. These threats can come from local actors, such as employees who access protected data, or global actors like nation-states attempting to breach secure systems. During the COVID-19 pandemic, Russian nation-state threat APT 29 'CozyBear' utilized phishing, exploits, and custom malware to steal information from healthcare organizations.
+    </li>
+    <li><B>How does changing strategies move us into intelligence?</B><br>The significance of cybersecurity in ensuring an organization's operational success cannot be overstated. To achieve optimal results, operations should be structured in a way that minimizes risks while maximizing benefits. It is vital for IT cybersecurity to work hand in hand with operations to decrease the considerable risks posed by malicious individuals. Since a security breach is almost inevitable, organizational strategy must factor this into transition into intelligent operations.
+    </li>
+    <li><B>How security systems based on intelligence lead to a decrease in the average expenses incurred by an organization due to a data breach?</B><sup id="cite_ref-9" class="reference"><a href="https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million">&#91;9&#93;</a></sup><br> The healthcare industry is a prime target for malicious individuals or groups because of the valuable and sensitive information it holds, including Personally Identifiable Information (PII). This is exacerbated by the increase in the use of the Internet of Medical Things (IoMT), as well as the insufficient cybersecurity protection, legacy systems, and inadequate cybersecurity staffing training. Furthermore, there are global threats from nation-states, such as China and Russia, who have sponsored advanced persistent threat (APT) groups to attack healthcare organizations in the past. These threats can come from local actors, such as employees who access protected data, or global actors like nation-states attempting to breach secure systems. During the COVID-19 pandemic, Russian nation-state threat APT 29 'CozyBear' utilized phishing, exploits, and custom malware to steal information from healthcare organizations.
+    </li>     
+ <ul>
+ 
+  ## References
+      
+1 - https://www.futurelearn.com/info/blog/explore-the-healthcare-industry
+
+2 - https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.
+
+3 - https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients
+
+4- https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market
+
+5 - https://chat.openai.com/chat
+
+6- https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf
+
+7- https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-216a
+
+8- https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf
+
+9- https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million
+      

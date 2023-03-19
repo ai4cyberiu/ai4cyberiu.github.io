@@ -239,5 +239,4 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 
 8- https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf
 
-9- https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million
-      
+9- https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million     

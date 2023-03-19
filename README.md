@@ -146,9 +146,42 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 #### <B> Top Malware Strains </B><sup id="cite_ref-7" class="reference"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-216a">&#91;7&#93;</a></sup> :
 * The list includes remote access Trojans (RATs), Trojans, information stealers, & ransomware droppers. 
 * The most prolific malware users are cyber criminals, motivated by theft of personal and financial information. 
-* Many of these are used to target the health sector. Top malware found in the industry in 2022 are mentioned in table below -a)
+* Many of these are used to target the health sector. Top malware found in the industry in 2022 are mentioned in table below.
 
-## Cyber Security Threats:
+![Malware_Varients](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Malware%20Varient.jpg "Malware_Varients")
+
+## Critial Assets:
+<table style="width:100%">
+<tr>
+<th>Asset</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Hospital employee personal computers</td>
+<td><B>What does the asset consist of?</B> Personal computers nurses and doctors.<br><B>Why is it significant?</B> Personal computers, tablets and various devices provide access to much critical information and services for employees to perform their job duties.<br><B>If crucial resources are compromised, what are the repercussions?</B> Sensitive patient information such as medicine inventory, critical health data, exam results, appointment agendas can be stolen and mis-used.<br><B>Who are the users of the asset?</B> Nurses, doctors and hospital administrators.
+</td>
+</tr>
+<tr>
+<td>IoT Medical Devices</td>
+<td><B>What does the asset consist of?</B> IoT devices are equipped with sensors responsible for collecting data and sharing it with company specific enterprise platforms.<br><B>Why is it significant?</B> IoT devices can automatically collect health metrics like heart rate, blood pressure, temperature, blood sugar.<br><B>If crucial resources are compromised, what are the repercussions?</B> The patient’s sensitive data can be stolen and misused putting patient’s health and diagnostic at risk.<br><B>Who are the users of the asset?</B> All patients using IoT devices.
+</td>
+</tr>
+<tr>
+<td>Mobile Devices</td>
+<td><B>What does the asset consist of?</B> These are utilized for purposes such as communication, recording patient information, and so on.<br><B>Why is it significant?</B> The usage of mobile devices and applications can offer several advantages to healthcare providers, including, notably, greater accessibility to tools used at the point of care.<br><B>If crucial resources are compromised, what are the repercussions?</B> The hospital's communication tools are indispensable, and its operations would be impeded without them.<br><B>Who are the users of the asset?</B> All personnel associated with the hospital, including administrative staff.
+</td>
+</tr>
+<tr>
+<td>Confidential Patient Data</td>
+<td><B>What does the asset consist of?</B> Data collected from health monitoring devices and hospitals.<br><B>Why is it significant?</B> This data treated as critical assets because it contains collection of medical information, traceability of prescriptions/medical orders, confidentiality duties,  critical needs highlighted in medical records.<br><B>If crucial resources are compromised, what are the repercussions?</B> Patient data is most critical information, and such data breach will impact patients, hospitals and overall healthcare system adversely (financial, compliance and PII risks).<br><B>Who are the users of the asset?</B> Patients, nurses, doctors and hospitals.
+</td>
+</tr>
+<tr>
+<td>Information Systems</td>
+<td><B>What does the asset consist of?</B> Software programs and information necessary for the operational management of the hospital.<br><B>Why is it significant?</B> The utilization of information systems can enhance the management of expenses, enhance the precision and promptness of patient care and administrative data, amplify the ability to serve patients, diminish workforce expenses and inventory levels, and uplift the standard of patient care.<br><B>If crucial resources are compromised, what are the repercussions?</B> If essential resources are compromised, it can lead to severe consequences. Hospitals may cease operations, communication between various departments or campuses may be disrupted due to email downtime, and patient test and record management could be affected.<br><B>Who are the users of the asset?</B> Personnel involved in administration, healthcare provision, and management
+</td>
+</tr>
+</table>
 
 ### 1.	Ransomware
 1. Phishing for Information

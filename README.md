@@ -134,6 +134,20 @@ The hospital industry provides medical, diagnostic, and treatment services that 
     </tr>
 </table>
 
+#### <B> Notable groups and malware found in 2022 </B>  <sup id="cite_ref-6" class="reference"><a href="https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf">&#91;6&#93;</a></sup>
+1 Malware
+* Emotet
+* Qbot
+
+2 Groups
+* Revil
+* Conti
+
+#### <B> Top Malware Strains </B><sup id="cite_ref-7" class="reference"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-216a">&#91;7&#93;</a></sup> :
+* The list includes remote access Trojans (RATs), Trojans, information stealers, & ransomware droppers. 
+* The most prolific malware users are cyber criminals, motivated by theft of personal and financial information. 
+* Many of these are used to target the health sector. Top malware found in the industry in 2022 are mentioned in table below -a)
+
 ## Cyber Security Threats:
 
 ### 1.	Ransomware

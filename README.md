@@ -38,7 +38,7 @@
 </table>
 
 ## Background:
-In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries.
+In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries <sup id="cite_ref-1" class="reference"><a href="https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.">&#91;1&#93;</a></sup>.
 
 #### Healthcare Industries:
 <ol>
@@ -74,10 +74,9 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 
 ### Industry Size and Key Players
 <ul>
-<li>The U.S. hospital facilities market size was estimated at <B>USD 1,318.9 billion in 2021</B> and was estimated at <B>USD 1,411.7 billion in 2022</B>[^1].</li> 
+<li>The U.S. hospital facilities market size was estimated at <B>USD 1,318.9 billion in 2021</B> and was estimated at <B>USD 1,411.7 billion in 2022</B>.</li> 
 <li>Some major players operating in the U.S. hospital facilities market include The John Hopkins Hospital, Mayo Clinic, Cleveland Clinic, Cedars-Sinai, Massachusetts General Hospital, UCSF Health, NewYork-Presbyterian Hospital, Brigham and Women's Hospital, Ronald Reagan UCLA Medical Center, and Northwestern Memorial Hospital</li>
 </ul>
-[^1]: My reference.
 
 ## Data
 Patient information is collected from various healthcare sources, including hospitals, emergency and home care services, and contains crucial information about diagnoses. This information may include personal details such as names, addresses, age, family history, and social security numbers. As a result, healthcare data is a prime target for cyber attacks, and it is crucial to have proper cybersecurity measures in place to protect it.

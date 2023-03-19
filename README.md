@@ -1,7 +1,7 @@
 # AI4Cyber Security – Case Study on Healthcare Industry (Hospitals) - Team 6
 ## Kelly School Of Business, Indiana University
 ### Disclaimer: All content on this site is for educational purposes only.
-![alt text](https://itbrief.com.au/uploads/story/2022/08/09/GettyImages-1201872205.webp "Logo Title Text 1")
+![alt text](https://itbrief.com.au/uploads/story/2022/08/09/GettyImages-1201872205.webp "Healthcare Industry IT Systems")
 ### Team composition:
 <table style="width:100%">
      <tr>

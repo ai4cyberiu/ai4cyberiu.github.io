@@ -191,34 +191,34 @@ Some information security experts use the diamond model  to authenticate and tra
 
 The relationships and features of four diamond components — <B> adversary, capacity, infrastructure, and victim </B> — are highlighted by this methodology. These four main elements are linked together to define their relationship, which may be analyzed to gain further insights and knowledge about malicious behaviors. 
 
-* Adversary: An adversary is an organization or threat actor that uses a capacity against a victim to achieve its objectives. 
-* Capability: The tools and strategies utilized by an opponent in an event are referred to as capabilities. 
-* Infrastructure: The infrastructure refers to the physical or logical communication structures used by an adversary to supply a capability, such as IP or e-mail addresses, domain names, etc. 
-* Victim: A victim is someone who has been attacked, has vulnerabilities exploited, or has capabilities utilized against them. Organizations, people, or assets, e-mail or IP addresses, domain names, and so on can all be targets. 
+* <B>Adversary:</B> An adversary is an organization or threat actor that uses a capacity against a victim to achieve its objectives. 
+* <B>Capability:</B> The tools and strategies utilized by an opponent in an event are referred to as capabilities. 
+* <B>Infrastructure:</B> The infrastructure refers to the physical or logical communication structures used by an adversary to supply a capability, such as IP or e-mail addresses, domain names, etc. 
+* <B>Victim:</B> A victim is someone who has been attacked, has vulnerabilities exploited, or has capabilities utilized against them. Organizations, people, or assets, e-mail or IP addresses, domain names, and so on can all be targets. 
 
 ### Diamond models for certain critical assets covered in this assignment are shown below:
 
-#### Critial Asset : Personal Computers
+#### Critial Asset : <B>Personal Computers</B>
 ![PC_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.1.png "Personal-Computers-DM-1.1")
 ![PC_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.2.png "Personal-Computers-DM-1.2")
 ![PC_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.3.png "Personal-Computers-DM-1.3")
 
-#### Critial Asset : IoT Medical Devices
+#### Critial Asset : <B>IoT Medical Devices</B>
 ![IOT_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.1.png "IOT-DM-1.1")
 ![IOT_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.2.png "IOT-DM-1.2")
 ![IOT_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.3.png "IOT-DM-1.3")
 
-#### Critial Asset : Mobile Devices
+#### Critial Asset : <B>Mobile Devices</B>
 ![MD_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.1.png "Mobile-Device-DM-1.1")
 ![MD_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.2.png "Mobile-Device-DM-1.2")
 ![MD_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.3.png "Mobile-Device-DM-1.3")
 
-#### Critial Asset : Patient Data
+#### Critial Asset : <B>Patient Data</B>
 ![PD_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.1.png "Patient-Data-DM-1.1")
 ![PD_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.2.png "Patient-Data-DM-1.2")
 ![PD_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.3.png "Patient-Data-DM-1.3")
 
-#### Critial Asset : Information Systems
+#### Critial Asset : <B>Information Systems</B>
 ![IS_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.1.png "Information-Systems-DM-1.1")
 ![IS_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.2.png "Information-Systems-DM-1.2")
 ![IS_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.3.png "Information-Systems-DM-1.3")

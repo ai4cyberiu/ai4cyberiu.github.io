@@ -186,29 +186,29 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 ## Diamond Models
 
 #### Critial Asset : Personal Computers
-![PC_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal-Computer-DM-1.1.png "Personal-Computers-DM-1.1")
-![PC_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal-Computer-DM-1.2.png "Personal-Computers-DM-1.2")
-![PC_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Personal-Computer-DM-1.3.png "Personal-Computers-DM-1.3")
+![PC_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.1.png "Personal-Computers-DM-1.1")
+![PC_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.2.png "Personal-Computers-DM-1.2")
+![PC_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.3.png "Personal-Computers-DM-1.3")
 
 #### Critial Asset : IoT Medical Devices
-![IOT_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/IOT-DM-1.1.png "IOT-DM-1.1")
-![IOT_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/IOT-DM-1.2.png "IOT-DM-1.2")
-![IOT_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/IOT-DM-1.3.png "IOT-DM-1.3")
+![IOT_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.1.png "IOT-DM-1.1")
+![IOT_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.2.png "IOT-DM-1.2")
+![IOT_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/IOT-DM-1.3.png "IOT-DM-1.3")
 
 #### Critial Asset : Mobile Devices
-![MD_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Mobile-Device-DM-1.1.png "Mobile-Device-DM-1.1")
-![MD_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Mobile-Device-DM-1.2.png "Mobile-Device-DM-1.2")
-![MD_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Mobile-Device-DM-1.3.png "Mobile-Device-DM-1.3")
+![MD_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.1.png "Mobile-Device-DM-1.1")
+![MD_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.2.png "Mobile-Device-DM-1.2")
+![MD_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Mobile-Device-DM-1.3.png "Mobile-Device-DM-1.3")
 
 #### Critial Asset : Patient Data
-![PD_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Patient-Data-DM-1.1.png "Patient-Data-DM-1.1")
-![PD_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Patient-Data-DM-1.2.png "Patient-Data-DM-1.2")
-![PD_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Patient-Data-DM-1.3.png "Patient-Data-DM-1.3")
+![PD_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.1.png "Patient-Data-DM-1.1")
+![PD_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.2.png "Patient-Data-DM-1.2")
+![PD_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Patient-Data-DM-1.3.png "Patient-Data-DM-1.3")
 
 #### Critial Asset : Information Systems
-![IS_1](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Information-Systems-DM-1.1.png "Information-Systems-DM-1.1")
-![IS_2](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Information-Systems-DM-1.2.png "Information-Systems-DM-1.2")
-![IS_3](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Information-Systems-DM-1.3.png "Information-Systems-DM-1.3")
+![IS_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.1.png "Information-Systems-DM-1.1")
+![IS_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.2.png "Information-Systems-DM-1.2")
+![IS_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.3.png "Information-Systems-DM-1.3")
 
 ## Intelligence Buy In
 

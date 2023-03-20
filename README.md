@@ -185,6 +185,19 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 
 ## Diamond Models
 
+The purpose of the Diamond Model is to assist analysts in identifying a group of events that occurred on their systems. These occurrences can then be grouped together in time to form “activity threads,” which can be compared to detect attacker campaigns.
+
+Some information security experts use the diamond model  to authenticate and trace <B>cyber threats<B>. Every incidence can be represented as a diamond using this method. 
+
+The relationships and features of four diamond components — <B> adversary, capacity, infrastructure, and victim </B> — are highlighted by this methodology. These four main elements are linked together to define their relationship, which may be analyzed to gain further insights and knowledge about malicious behaviors. 
+
+* Adversary: An adversary is an organization or threat actor that uses a capacity against a victim to achieve its objectives. 
+* Capability: The tools and strategies utilized by an opponent in an event are referred to as capabilities. 
+* Infrastructure: The infrastructure refers to the physical or logical communication structures used by an adversary to supply a capability, such as IP or e-mail addresses, domain names, etc. 
+* Victim: A victim is someone who has been attacked, has vulnerabilities exploited, or has capabilities utilized against them. Organizations, people, or assets, e-mail or IP addresses, domain names, and so on can all be targets. 
+
+### Diamond models for certain critical assets covered in this assignment are shown below:
+
 #### Critial Asset : Personal Computers
 ![PC_1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.1.png "Personal-Computers-DM-1.1")
 ![PC_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Personal-Computer-DM-1.2.png "Personal-Computers-DM-1.2")

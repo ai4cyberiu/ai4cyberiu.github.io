@@ -223,10 +223,8 @@ The hospital industry provides medical, diagnostic, and treatment services that 
  
 ## References
       
-1 - Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn (https://www.futurelearn.com/info/blog/explore-the-healthcare-industry
-"Explore: the healthcare industry") 
-<br>
-2 - Healthcare Sector: Industries Defined and Key Statistics (https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.) <br>
+1 - Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn <https://www.futurelearn.com/info/blog/explore-the-healthcare-industry>
+2 - Healthcare Sector: Industries Defined and Key Statistics <https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients>
 3 - Hospital Industry Details (https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients)<br>
 4 - Industry Size and Key Players (https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market) <br>
 5 - Hospital Information System Groups (https://chat.openai.com/chat) <br>

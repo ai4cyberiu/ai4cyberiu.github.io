@@ -187,7 +187,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 
 The purpose of the Diamond Model is to assist analysts in identifying a group of events that occurred on their systems. These occurrences can then be grouped together in time to form “activity threads,” which can be compared to detect attacker campaigns.
 
-Some information security experts use the diamond model  to authenticate and trace <B>cyber threats<B>. Every incidence can be represented as a diamond using this method. 
+Some information security experts use the diamond model  to authenticate and trace <B>cyber threats</B>. Every incidence can be represented as a diamond using this method. 
 
 The relationships and features of four diamond components — <B> adversary, capacity, infrastructure, and victim </B> — are highlighted by this methodology. These four main elements are linked together to define their relationship, which may be analyzed to gain further insights and knowledge about malicious behaviors. 
 

@@ -219,24 +219,18 @@ The hospital industry provides medical, diagnostic, and treatment services that 
     </li>
     <li><B>How security systems based on intelligence lead to a decrease in the average expenses incurred by an organization due to a data breach?</B><sup id="cite_ref-9" class="reference"><a href="https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million">&#91;9&#93;</a></sup><br> The healthcare industry is a prime target for malicious individuals or groups because of the valuable and sensitive information it holds, including Personally Identifiable Information (PII). This is exacerbated by the increase in the use of the Internet of Medical Things (IoMT), as well as the insufficient cybersecurity protection, legacy systems, and inadequate cybersecurity staffing training. Furthermore, there are global threats from nation-states, such as China and Russia, who have sponsored advanced persistent threat (APT) groups to attack healthcare organizations in the past. These threats can come from local actors, such as employees who access protected data, or global actors like nation-states attempting to breach secure systems. During the COVID-19 pandemic, Russian nation-state threat APT 29 'CozyBear' utilized phishing, exploits, and custom malware to steal information from healthcare organizations.
     </li>     
- <ul>
+ </ul>
  
-  ## References
+## References
       
-1 - https://www.futurelearn.com/info/blog/explore-the-healthcare-industry
-
-2 - https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.
-
-3 - https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients
-
-4- https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market
-
-5 - https://chat.openai.com/chat
-
-6- https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf
-
-7- https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-216a
-
-8- https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf
-
-9- https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million     
+* Introduction and Industry Background
+1 - [Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn)] (https://www.futurelearn.com/info/blog/explore-the-healthcare-industry
+) <br>
+2 - [Healthcare Sector: Industries Defined and Key Statistics] (https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.) <br>
+3 - [Hospital Industry Details] (https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients)<br>
+4 - [Industry Size and Key Players] (https://www.grandviewresearch.com/industry-analysis/us-hospital-facilities-market) <br>
+5 - [Hospital Information System Groups] (https://chat.openai.com/chat) <br>
+6 - [Notable groups and malware found in 2022] (https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf) <br>
+7 - [Top Malware Strains] (https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-216a) <br>
+8 - [Intelligence Buy In - Current State of environment] (https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf)
+9 - [Intelligence Lead security systems] (https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million)

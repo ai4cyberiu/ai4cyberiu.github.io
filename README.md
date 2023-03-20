@@ -148,7 +148,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 * The most prolific malware users are cyber criminals, motivated by theft of personal and financial information. 
 * Many of these are used to target the health sector. Top malware found in the industry in 2022 are mentioned in table below.
 
-![Malware_Varients](https://github.com/ai4cyberiu/ai4cyberiu.github.io/blob/main/Malware-Varient.jpg "Malware Varients")
+![Malware_Varients](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Malware-Varient.jpg "Malware Varients")
 
 ## Critial Assets:
 <table style="width:100%">

@@ -2,7 +2,17 @@
 ## Kelly School Of Business, Indiana University
 ### Disclaimer: All content on this site is for educational purposes only.
 ![alt text](https://itbrief.com.au/uploads/story/2022/08/09/GettyImages-1201872205.webp "Healthcare Industry IT Systems")
-### Team composition:
+## Table of Contents
+ - [Team Composition](#-team-composition)
+ - [Background](#-background)
+ - [Industry Details](#-industry-details)
+ - [Significance Of Information Technology](#-significance-of-information-technology)
+ - [Relevant Threat Trends](#-relevant-threat-trends)
+ - [Critical Assets](#-critial-assets)
+ - [Diamond Models](#-diamond-models)
+ - [References](#-references)
+ 
+### [↑](#table-of-contents) Team Composition
 <table style="width:100%">
      <tr>
      <th>Name</th>
@@ -37,7 +47,7 @@
     </tr>
 </table>
 
-## Background:
+## [↑](#table-of-contents) Background
 In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic Product) and is one of the largest and most complex in the country. This one sector is comprised of many Industries<sup id="cite_ref-1" class="reference"><a href="https://www.futurelearn.com/info/blog/explore-the-healthcare-industry">&#91;1&#93;</a></sup>.
 
 #### <B>Healthcare Industries</B> <sup id="cite_ref-2" class="reference"><a href="https://www.investopedia.com/terms/h/health_care_sector.asp#:~:text=The%20healthcare%20sector%20consists%20of,provision%20of%20healthcare%20to%20patients.">&#91;2&#93;</a></sup>:
@@ -53,7 +63,7 @@ In 2020 the healthcare sector accounted for 18% of the U.S. GDP (Gross Domestic
 
 __Key services within the hospital industry include, hospitals, clinics, labs, psychiatric facilities, and nursing homes. These services are provided by millions of providers globally. Approximately 9.2 Million physicians, 19.4 millions nurses and midwives, 1.9 million dentist and dentistry personnel, 2.6 million pharmacists and pharmacist personnel, and over 1.3 million community personnel.__
 
-## Industry Details, Size & Major Players
+## [↑](#table-of-contents) Industry Details
 
 #### <B>Industry Details</B> <sup id="cite_ref-3" class="reference"><a href="https://www.bls.gov/iag/tgs/iag622.htm#:~:text=The%20hospitals%20subsector%20is%20part,accommodation%20services%20required%20by%20inpatients">&#91;3&#93;</a></sup>:
 The hospital industry provides medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.
@@ -78,7 +88,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 <li>Some major players operating in the U.S. hospital facilities market include The John Hopkins Hospital, Mayo Clinic, Cleveland Clinic, Cedars-Sinai, Massachusetts General Hospital, UCSF Health, NewYork-Presbyterian Hospital, Brigham and Women's Hospital, Ronald Reagan UCLA Medical Center, and Northwestern Memorial Hospital</li>
 </ul>
 
-## Significance of Information Technology 
+## [↑](#table-of-contents) Significance Of Information Technology 
 <ul>
 <li>Patient information is collected from various healthcare sources, including hospitals, emergency and home care services, and contains crucial information about diagnoses. This information may include personal details such as names, addresses, age, family history, and social security numbers. As a result, healthcare data is a prime target for cyber attacks, and it is crucial to have proper cybersecurity measures in place to protect it.
 </li>
@@ -99,7 +109,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 <li>Electronic Medication Administration</li>
 </ol>
 
-## Relevant Threat Trends
+## [↑](#table-of-contents) Relevant Threat Trends
 <table style="width:100%">
      <tr>
      <th>Threat</th>
@@ -150,7 +160,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 
 ![Malware_Varients](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Malware-Varient.jpg "Malware Varients")
 
-## Critial Assets:
+## [↑](#table-of-contents) Critial Assets
 <table style="width:100%">
 <tr>
 <th>Asset</th>
@@ -183,7 +193,7 @@ The hospital industry provides medical, diagnostic, and treatment services that 
 </tr>
 </table>
 
-## Diamond Models
+## [↑](#table-of-contents) Diamond Models
 
 The purpose of the Diamond Model is to assist analysts in identifying a group of events that occurred on their systems. These occurrences can then be grouped together in time to form “activity threads,” which can be compared to detect attacker campaigns.
 
@@ -223,7 +233,7 @@ The relationships and features of four diamond components — <B> adversary, cap
 ![IS_2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.2.png "Information-Systems-DM-1.2")
 ![IS_3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Information-Systems-DM-1.3.png "Information-Systems-DM-1.3")
 
-## Intelligence Buy In
+## [↑](#table-of-contents) Intelligence Buy In
 
 <ul>
     <li><B>The current state of the environment</B><sup id="cite_ref-8" class="reference"><a href="https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf">&#91;8&#93;</a></sup><br> The healthcare industry is a prime target for malicious individuals or groups because of the valuable and sensitive information it holds, including Personally Identifiable Information (PII). This is exacerbated by the increase in the use of the Internet of Medical Things (IoMT), as well as the insufficient cybersecurity protection, legacy systems, and inadequate cybersecurity staffing training. Furthermore, there are global threats from nation-states, such as China and Russia, who have sponsored advanced persistent threat (APT) groups to attack healthcare organizations in the past. These threats can come from local actors, such as employees who access protected data, or global actors like nation-states attempting to breach secure systems. During the COVID-19 pandemic, Russian nation-state threat APT 29 'CozyBear' utilized phishing, exploits, and custom malware to steal information from healthcare organizations.
@@ -234,7 +244,7 @@ The relationships and features of four diamond components — <B> adversary, cap
     </li>     
  </ul>
  
-## References
+## [↑](#table-of-contents) References
       
 1 - Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn <https://www.futurelearn.com/info/blog/explore-the-healthcare-industry>
 <br>

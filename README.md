@@ -272,6 +272,60 @@ We have identified two data sources for cyber threats : <B> 1. Malware Bazaar  2
 
 ## [↑](#table-of-contents) Data Collection Strategies
 
+### 1. Malware Bazaar
+* First, the site provides a full list of all the malwares it has registered, which can either be downloaded completely or only the most recent ones. This can be done using a simple python script like this one:
+
+![MB-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Malware-Bazaar-1.png "MB-1")
+
+* In this case, the data is being saved in a .csv file, but it can also be saved in a database for easier access.
+* The downloaded dataset looks as follows:
+
+![MB-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Malware-Bazaar-2.png "MB-2")
+
+* Metadata Information:
+
+![MB-3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Malware-Bazaar-3.png "MB-3")
+
+* The shown dataset is very useful by itself because it will enable AI4Cyber models to be trained on the latest threats and how big their impact may be.
+
+* To get the most out of Malware Bazaar, an important additional process will be needed:
+
+  * When the AI model identifies a threat in a malware (mainly ransomwares in this case), the program must download a sample of it from Malware Bazaar’s API (free).
+  * Once downloaded, the program must analyze the malware in depth, providing actionable information (or automation) to prevent any issues.
+  * This analysis can be stored in another database to continue training the model.
+  * To go even further, the resulting analysis can be uploaded to Malware Bazaar to close the loop and help other organizations.
+
+### 2. PhishTank Data Sample
+
+* The information was obtained by downloading a csv file from PhishTank website<sup id="cite_ref-11" class="reference"><a href="https://phishtank.org/developer_info.php">&#91;11&#93;</a></sup>, making it straightforward to examine. The dataset contains roughly 60000 entries.
+
+![PT-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/PhishTank-1.png "PT-1")
+
+* Metadata (Column) Information : 
+
+  * phish_detail_url - PhishTank detail URL for the phish, where you can view data about the phish, including a screenshot and the community votes.
+  * URL - The phish URL. This is always a string, and in the XML feeds may be a CDATA block.
+submission_time - The date and time at which this phish was reported to PhishTank. This is an ISO 8601 formatted date.
+  * verified  - Whether or not this phish has been verified by our community. In these data files, this will always be the string 'yes' since we only supply verified phishes in these files.
+  * verification_time  - The date and time at which the phish was verified as valid by our community. This is an ISO 8601 formatted date.
+  * online - Whether or not the phish is online and operational. In these data files, this will always be the string 'yes' since we only supply online phishes in these files.
+  * target - The name of the company or brand the phish is impersonating, if it's known.
+  
+* First, the site provides a full list of all the malwares it has registered, which can either be downloaded complete or only the most recent ones. This can be done using a simple python script like this one:
+
+![PT-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/PhishTank-2.png "PT-2")
+
+* In this case, the data is being saved in a .csv file, but it can also be saved in a database for easier access.
+
+* PhishTank is a community-driven platform that collects and shares information about phishing attacks. The platform is designed to help organizations and individuals identify and prevent phishing attacks, which are one of the most common types of cyber threats.
+
+* The PhishTank dataset can be very useful in training AI4Cyber models to detect and prevent phishing attacks. To get the most out of PhishTank, an additional process will be needed:
+
+  * When the AI model identifies a suspicious email or URL, the program must query the PhishTank API (free) to check if it has been reported as a phishing attack.
+  * If the email or URL is found in the PhishTank database, the program should provide actionable information to prevent any issues, such as blocking the email or warning the user not to click the link.
+  * This analysis can be stored in another database to continue training the model.
+  * To close the loop, the resulting analysis can be uploaded to PhishTank to help other organizations and individuals identify and prevent phishing attacks. By contributing to the community-driven platform, organizations can help each other to create a safer online environment for everyone.
+
 ## [↑](#table-of-contents) References
       
 1 - Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn <https://www.futurelearn.com/info/blog/explore-the-healthcare-industry>
@@ -293,3 +347,5 @@ We have identified two data sources for cyber threats : <B> 1. Malware Bazaar  2
 9 - Intelligence Lead security systems <https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million>
 <br>
 10 - Use Cases for Data Sources - <https://bazaar.abuse.ch/about/>
+<br>
+11 - PhishTank Data source - <https://phishtank.org/developer_info.php>

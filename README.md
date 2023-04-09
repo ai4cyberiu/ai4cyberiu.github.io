@@ -10,8 +10,10 @@
  - [Relevant Threat Trends](#-relevant-threat-trends)
  - [Critical Assets](#-critial-assets)
  - [Diamond Models](#-diamond-models)
+ - [Data Source Identification and Justification](#-data-source-identification-and-justification)
+ - [Data Collection Strategies](#-data-collection-strategies)
  - [References](#-references)
- 
+  
 ### [↑](#table-of-contents) Team Composition
 <table style="width:100%">
      <tr>
@@ -244,6 +246,32 @@ The relationships and features of four diamond components — <B> adversary, cap
     </li>     
  </ul>
  
+## [↑](#table-of-contents) Data Source Identification and Justification
+
+We have identified two data sources for cyber threats : <B> 1. Malware Bazaar  2. PhishTank </B>
+
+### 1. Malware Bazaar:
+
+* It is a free, community-driven repository of malware samples and research data for cybersecurity professionals and researchers. Created by Abuse.ch it provides over 15 million malware samples in its repository.
+
+* As it was previously mentioned, ransomware is a type of malware that poses a big threat to healthcare organizations. Malware Bazaar can be used to specifically analyze ransomware samples to protect organizations.
+
+* There are 3 main use cases for this data source selection<sup id="cite_ref-10" class="reference"><a href="https://bazaar.abuse.ch/about/">&#91;10&#93;</a></sup>:
+
+  * <B>Threat Intelligence</B>: it is continuously updated by all the members of the community, which provides information about the latest threats and will allow the organization to be prepared.
+  * <B>Malware analysis</B>: downloading and studying different malware examples can help the design of effective countermeasures against similar threats.
+  * <B>IOCs (indicators of compromise)</B>: Malware Bazaar provides a database of IOCs associated with various malware samples
+
+### 2. PhishTank:
+
+* <B>Accessibility</B> : PhishTank is an open-source platform that is utilized by various security firms, including McAffee, Kaspersky, and Avira, to cater to both the general public and healthcare industry. It serves as the primary data repository for phishing attacks.
+
+* <B>Quality and Relevance</B> : PhishTank is a platform where users can report suspected phishing scams and keep track of their reports. For a phishing scam to be added to the database, it needs to be reported by multiple users. The platform is regularly updated with new data to address new threats, and it monitors various industries, not just healthcare, to provide a complete overview of potential phishing attacks.
+
+* <B> Reason for selection of this data source </B> : According to our four Diamond Models, Phishing is a significant threat that has been increasing in prevalence every year. Tessian research in 2021 shows that employees, on average, receive 14 malicious emails annually. Phishing attacks are highly successful, with at least one person clicking on a phishing link in 86% of organizations, according to Cisco's 2021 Cybersecurity threat trend report. In the healthcare industry, hospitals can be targeted, and potential victims may include hospital administrative data, staff and patient data, and patient medical records.
+
+## [↑](#table-of-contents) Data Collection Strategies
+
 ## [↑](#table-of-contents) References
       
 1 - Explore: the healthcare industry | A detailed look at all you need to know – FutureLearn <https://www.futurelearn.com/info/blog/explore-the-healthcare-industry>
@@ -263,3 +291,5 @@ The relationships and features of four diamond components — <B> adversary, cap
 8 - Intelligence Buy In - Current State of environment <https://h-isac.org/wp-content/uploads/2022/03/H-ISAC-and-BAH-2021-2022-Annual-Cyber-Threat-Landscape-Report-TLP-WHITE.pdf>
 <br>
 9 - Intelligence Lead security systems <https://www.upguard.com/blog/cost-of-data-breach#:~:text=The%20average%20data%20breach%20costs,2021%20amount%20of%20%244.24%20million>
+<br>
+10 - Use Cases for Data Sources - <https://bazaar.abuse.ch/about/>

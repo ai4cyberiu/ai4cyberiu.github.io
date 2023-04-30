@@ -448,7 +448,7 @@ For our case study, we have determined following analytical approaches for each 
 
 #### STEP 4 - Conclusion
 
-* Subsequently, the data was divided into two sets: the training dataset, which accounted for 80% of the data, and the test dataset, which comprised the remaining 20%.
+* Subsequently, the data was divided into two sets: the training dataset, which accounted for 80% of the data, and the test dataset, which comprised the remaining 20%. Various machine learning models where used to test the predictive analytics for the data sets.
 
 ![Ph-24](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_24.png "Ph-24")
 
@@ -472,11 +472,39 @@ For our case study, we have determined following analytical approaches for each 
  
     ![Ph-29](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_29.png "Ph-29")
 
-  * Summary:
+  * **Summary**:
 
     After assessing various classification models, it was noted that the Random Forest Model consistently demonstrated the highest performance, achieving an   approximate prediction accuracy of 90%.
 
     ![Ph-30](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_30.png "Ph-30")
+
+### PhishTank Analytics - Approach 2 - Forensic Analytics Process
+
+* Why Forensic Analysis
+
+The data available in PhishTank can be better used in Forensic analysis over other analytical processes because of the litigious nature of the data. The data contains timestamps, company names, and phishing links. These data points bring with them legal ramifications that can positively or negatively affect a company. Forensic Analysis will ensure that companies identify, collect, preserve, analyze, extract, document, and present digital evidence.
+
+* Value Add
+
+It is valuable for companies to collect and analyze as much phishing data regarding their company and it's subsidiaries as possible. The process of Forensic analysis not only provides important evidence for lawsuits but also protects the integrity of their systems. What better way to do that than with the worlds largest repository of phishing related information.
+
+* Data Sources
+
+Phishing URLs sourced from PhishTank
+
+![Ph-31](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_1.png "Ph-31")
+
+#### STEP 1 - Acquisition
+
+* PhishTank provides an open-source repository of data, so data is free and easy to access in many different formats. In this scenario we will use CSV
+* Data can be acquired mainly through download/import. By downloading the data we can preserve it for legal records.
+
+![Ph-32](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_2.png "Ph-32")
+
+* Using Python we can regularly pull and save the data that is given to us by PhishTank as a csv in a dedicated location.
+
+![Ph-33](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_3.png "Ph-33")
+
 
 ## [↑](#table-of-contents) Visualization Display
 

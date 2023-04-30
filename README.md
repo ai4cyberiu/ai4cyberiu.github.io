@@ -12,8 +12,8 @@
  - [Diamond Models](#-diamond-models)
  - [Data Source Identification and Justification](#-data-source-identification-and-justification)
  - [Data Collection Strategies](#-data-collection-strategies)
- - [Analytical Approaches and Justification] (#-analytical-approaches-and-justification)
- - [Visualization Display] (#-visualization-display)
+ - [Analytical Approaches and Justification](#-analytical-approaches-and-justification)
+ - [Visualization Display](#-visualization-display)
  - [References](#-references)
   
 ### [↑](#table-of-contents) Team Composition

@@ -340,15 +340,16 @@ For our case study, we have determined following analytical approaches for each 
 
 ### PhishTank Analytics - Approach 1
 
-* **Reason**: The purpose of utilizing PhishTank data is to easily determine whether a URL is associated with phishing or not. The dataset provided by PhishTank consists of known URLs used for phishing, which is valuable for identifying potential phishing sites that could pose a risk to our network. 
-* **The objective** is to identify the characteristics of phishing sites to improve our overall ability to detect such sites.
+* **Reason**: The purpose of utilizing PhishTank data is to easily determine whether a URL is associated with phishing or not. The dataset provided by PhishTank consists of known URLs used for phishing, which is valuable for identifying potential phishing sites that could pose a risk to our network. The objective is to identify the characteristics of phishing sites to improve our overall ability to detect such sites.
 * **Importance in the Industry**: Phishing is the most effective method employed by malicious individuals to gain unauthorized access to networks. By gaining a deeper understanding of the attributes exhibited by phishing sites, organizations can take proactive measures, such as deploying firewalls or spam filters, to prevent attacks and protect their enterprise.
 * **Value of AI in Cybersecurity**: PhishTank's data repositories are regularly updated. Connecting to this data provides a realistic perspective on the current phishing threat landscape and enables AI to discover ways in which defenses can adapt to enhance the detection and blocking of attacks.
-
 * **Objective**: The purpose is to categorize websites as either phishing or legitimate.
 * **Data Sources**: The dataset of phishing URLs was sourced from PhishTank in CSV format, as indicated on slide 25. The list of legitimate URLs was obtained from AlexaRank in CSV format.
 * **Method**: Predictive analysis was conducted using classification techniques. Python was chosen as the programming language due to its scalability and wide range of tools for accessing datasets.
 * **Final Notes**: Various classification models were assessed, with the Random Forest Model demonstrating the highest performance.
+
+#### URL Feature Extraction
+
 
 ## [↑](#table-of-contents) Visualization Display
 

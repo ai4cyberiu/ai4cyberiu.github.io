@@ -332,9 +332,24 @@ submission_time - The date and time at which this phish was reported to PhishTa
 
 For our case study, we have determined following analytical approaches for each of the data set
 
-PhishTank Data set – We have considered two analytical approaches, namely
-* <B>Predictive analysis using classification techniques for phishing URL patterns</B>. Python models were trained to perform predictive analysis.
-* <B>Forensic Analytics Process for phishing data focusing on source, targets and number of attempts</B>. Power BI tool was used to analyze/slide data.
+1. PhishTank Data set : We have considered two analytical approaches, namely
+* <B> Approach 1</B> - Predictive analysis using classification techniques for phishing URL patterns. Python models were trained to perform predictive analysis.
+* <B> Approach 2</B> - Forensic Analytics Process for phishing data focusing on source, targets and number of attempts. Power BI tool was used to analyze the data.
+
+2. Malware dataset : We will be using <B>static</B> and <B>dynamic</B> models for <B>“Malware Analysis”</B> technique
+
+### PhishTank Analytics - Approach 1
+
+* **Reason**: The purpose of utilizing PhishTank data is to easily determine whether a URL is associated with phishing or not. The dataset provided by PhishTank consists of known URLs used for phishing, which is valuable for identifying potential phishing sites that could pose a risk to our network. The objective is to identify the characteristics of phishing sites to improve our overall ability to detect such sites.
+Importance in the Industry: Phishing is the most effective method employed by malicious individuals to gain unauthorized access to networks. By gaining a deeper understanding of the attributes exhibited by phishing sites, organizations can take proactive measures, such as deploying firewalls or spam filters, to prevent attacks and protect their enterprise.
+Value of AI in Cybersecurity: PhishTank's data repositories are regularly updated. Connecting to this data provides a realistic perspective on the current phishing threat landscape and enables AI to discover ways in which defenses can adapt to enhance the detection and blocking of attacks.
+
+Objective: The purpose is to categorize websites as either phishing or legitimate.
+Data Sources: The dataset of phishing URLs was sourced from PhishTank in CSV format, as indicated on slide 25. The list of legitimate URLs was obtained from AlexaRank in CSV format.
+Method: Predictive analysis was conducted using classification techniques. Python was chosen as the programming language due to its scalability and wide range of tools for accessing datasets.
+Final Notes: Various classification models were assessed, with the Random Forest Model demonstrating the highest performance.
+![image](https://user-images.githubusercontent.com/128113997/235377803-b613bc8d-01f5-4083-8ff3-194f09777de2.png)
+
 
 ## [↑](#table-of-contents) Visualization Display
 

@@ -564,7 +564,7 @@ For our case study, we have determined following analytical approaches for each 
 
 * Download the selected malware using Malware Bazaar's API:
 
-   ![MW-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Malware_Approach_1.png "MW-1")
+   ![MW-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Malware_Approach_1_1.png "MW-1")
 
 #### STEP 2 - Identification
 

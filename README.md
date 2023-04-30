@@ -527,17 +527,17 @@ For our case study, we have determined following analytical approaches for each 
 
 * We can further evaluate the data in Power BI. This will give us the ability to create a data set starting with this table that can be filtered searched and modeled.
 
- ![Ph-36](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_6.png "Ph-36")
+   ![Ph-36](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_6.png "Ph-36")
 
 * We can further evaluate the data in Power BI. This will give us the ability to create a data set starting with this table that can be filtered searched and modeled.
 
-  ![Ph-37](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_7.png "Ph-37")
+   ![Ph-37](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_7.png "Ph-37")
 
-  ![Ph-38](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_8.png "Ph-38")
+   ![Ph-38](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_8.png "Ph-38")
 
 * The use of slicers in conjunction with a data table allow for easy searching and pinpointing of data based on time and category.
 
-  ![Ph-39](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_9.png "Ph-39")
+   ![Ph-39](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_9.png "Ph-39")
 
 ## [↑](#table-of-contents) Visualization Display
 

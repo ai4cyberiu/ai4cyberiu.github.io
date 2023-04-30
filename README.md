@@ -525,6 +525,8 @@ For our case study, we have determined following analytical approaches for each 
 
    ![Ph-35](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_5.png "Ph-35")
 
+#### STEP 3 - Evaluation
+
 * We can further evaluate the data in Power BI. This will give us the ability to create a data set starting with this table that can be filtered searched and modeled.
 
    ![Ph-36](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_6.png "Ph-36")
@@ -538,6 +540,14 @@ For our case study, we have determined following analytical approaches for each 
 * The use of slicers in conjunction with a data table allow for easy searching and pinpointing of data based on time and category.
 
    ![Ph-39](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_9.png "Ph-39")
+
+#### STEP 4 - Conclusion
+
+* Using Power BI we can present our forensic analysis through visual appealing and easy to digest reports.
+* Searching for data is dynamic and quick. Searching for time specific data is also easy using a sliding scale slicer.
+
+   ![Ph-40](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_10.png "Ph-40")
+
 
 ## [↑](#table-of-contents) Visualization Display
 

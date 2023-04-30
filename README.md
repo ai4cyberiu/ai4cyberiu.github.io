@@ -348,7 +348,7 @@ For our case study, we have determined following analytical approaches for each 
 * **Method**: Predictive analysis was conducted using classification techniques. Python was chosen as the programming language due to its scalability and wide range of tools for accessing datasets.
 * **Final Notes**: Various classification models were assessed, with the Random Forest Model demonstrating the highest performance.
 
-#### URL Feature Extraction
+#### STEP 1 - URL Feature Extraction
 * Read Data File from PhishTank (61,528 rows, 8 columns)
 * Took a Random Sample from PhishTank of n=5000 ( 5000 Rows, 8 Columns)
 
@@ -419,6 +419,63 @@ For our case study, we have determined following analytical approaches for each 
 * Merge the genuine and fraudulent URL datasets and store the information in a CSV file named "urldata.csv" to be utilized for machine learning purposes, specifically classification.
 
 ![Ph-19](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_19.png "Ph-19")
+
+#### STEP 2 - Website Detection
+
+* With the completion of data processing, we can now initiate the detection of phishing websites. The dataset named "urldata.csv" has been created, comprising 10,000 rows and 10 columns.
+
+![Ph-20](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_20.png "Ph-20")
+
+* Basic Summary Statistic Visualizations were used to view the data
+  * Summary Statistic - Heatmap
+    
+    ![Ph-21](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_21.png "Ph-21")
+  
+  * Summary Statistic - Histogram
+  
+    ![Ph-22](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_22.png "Ph-22")
+  
+  * Data Description
+
+    ![Ph-23](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_23.png "Ph-23")
+
+#### STEP 3 - Visualization
+
+* Every plot displays a URL feature represented on the X-axis and the corresponding Label on the Y-axis. (1 = Phishing URL and 0 = Non-Malicious URL)
+* Each value of 1 represents a Phishing URL, while each value of 0 represents a Non-Malicious URL (Except for plot of URL_Depth) 
+
+![Ph-22](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_22.png "Ph-22")
+
+#### STEP 4 - Conclusion
+
+* Subsequently, the data was divided into two sets: the training dataset, which accounted for 80% of the data, and the test dataset, which comprised the remaining 20%.
+
+![Ph-24](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_24.png "Ph-24")
+
+  * Decision Tree
+
+    ![Ph-25](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_25.png "Ph-25")
+
+  * SVM
+ 
+    ![Ph-26](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_26.png "Ph-26")
+
+  * Multilayer Perceptron's
+ 
+    ![Ph-27](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_27.png "Ph-27")
+
+  * Random Forest
+ 
+    ![Ph-28](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_28.png "Ph-28")
+
+  * XGBoost
+ 
+    ![Ph-29](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_29.png "Ph-29")
+
+  * Summary
+    After assessing various classification models, it was noted that the Random Forest Model consistently demonstrated the highest performance, achieving an   approximate prediction accuracy of 90%.
+
+    ![Ph-29](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_29.png "Ph-29")
 
 ## [↑](#table-of-contents) Visualization Display
 

@@ -506,6 +506,39 @@ For our case study, we have determined following analytical approaches for each 
    ![Ph-33](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_3.png "Ph-33")
 
 
+#### STEP 2 - Identification
+
+* Data definitions for each column are provided by PhishTank which will help us identify the columns we need to account for in our forensic evaluation and analysis
+  
+  ![Ph-34](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_4.png "Ph-34")
+
+* After examining the imported data we can more clearly see and identify the data captured within the csv file. In this scenario we will evaluate the following columns:
+    * url
+    * phish_detail_url
+    * submission_time
+    * verified
+    * verification_time
+    * online
+    * target
+
+* These data points were chosen because of the litigious nature of the data. Which includes time, company names and malicious URLs.
+
+   ![Ph-35](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_5.png "Ph-35")
+
+* We can further evaluate the data in Power BI. This will give us the ability to create a data set starting with this table that can be filtered searched and modeled.
+
+ ![Ph-36](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_6.png "Ph-36")
+
+* We can further evaluate the data in Power BI. This will give us the ability to create a data set starting with this table that can be filtered searched and modeled.
+
+  ![Ph-37](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_7.png "Ph-37")
+
+  ![Ph-38](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_8.png "Ph-38")
+
+* The use of slicers in conjunction with a data table allow for easy searching and pinpointing of data based on time and category.
+
+  ![Ph-39](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_9.png "Ph-39")
+
 ## [↑](#table-of-contents) Visualization Display
 
 WIP data

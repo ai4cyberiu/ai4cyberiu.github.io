@@ -13,6 +13,8 @@
  - [Data Source Identification and Justification](#-data-source-identification-and-justification)
  - [Data Collection Strategies](#-data-collection-strategies)
  - [References](#-references)
+ - [Analytical Approaches and Justification] (#-analytical-approaches-and-justification)
+ - [Visualization Display] (#-visualization-display)
   
 ### [↑](#table-of-contents) Team Composition
 <table style="width:100%">
@@ -325,6 +327,16 @@ submission_time - The date and time at which this phish was reported to PhishTa
   * If the email or URL is found in the PhishTank database, the program should provide actionable information to prevent any issues, such as blocking the email or warning the user not to click the link.
   * This analysis can be stored in another database to continue training the model.
   * To close the loop, the resulting analysis can be uploaded to PhishTank to help other organizations and individuals identify and prevent phishing attacks. By contributing to the community-driven platform, organizations can help each other to create a safer online environment for everyone.
+
+## [↑](#table-of-contents) Analytical Approaches and Justification
+For our case study, we have determined following analytical approaches for each of the data set
+
+#### PhishTank Data set – We have considered two analytical approaches, namely
+* Predictive analysis using classification techniques for phishing URL patterns. Python models were trained to perform predictive analysis.
+* Forensic Analytics Process for phishing data focusing on source, targets and number of attempts. Power BI tool was used to analyze/slide data.
+
+## [↑](#table-of-contents) Visualization Display
+
 
 ## [↑](#table-of-contents) References
       

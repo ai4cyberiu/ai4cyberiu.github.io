@@ -548,10 +548,78 @@ For our case study, we have determined following analytical approaches for each 
 
    ![Ph-40](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_10.png "Ph-40")
 
+### Malware Analytics
+
+#### Malware Analysis using Malware Bazaar data
+
+* As mentioned before, Malware Bazaar is a repository of malwares that exist on the web.
+* After analyzing which of all the  malwares can pose a threat to the hospital, a further analysis should be done to fully determine if the malware is a threat and if it is, how to mitigate it.
+* Malware Bazaar allows us to download the malware (or a part of it) via their API to analyze it.
+* For this purpose, the analytical approach chosen is Malware Analysis
+* This approach was chosen because, as its name says, it allows the organization to analyze the different malwares that exist and determine their impact and mitigation process. Constant, and increasing knowledge about them is key to be one step ahead of the threats.
+
+### STEP 1 - Data Collection
+
+* Determine which malwares are worth examining (Based on type/risk analysis)
+
+* Download the selected malware using Malware Bazaar's API:
+
+   ![MW-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Malware_Approach_1.png "MW-1")
+
+#### STEP 2 - Identification
+
+* Use a Static Analysis model to analyze the malware and determine its level of threat. This can be done by creating and training a model or using an open source one such as MalConv, DeepMAL, and Malware Detection with Convolutional Neural Networks. (This step could be an individual analytical approach by its own).
+* If the model is not able to precisely analyze the malware, a  Dynamic Analysis can be performed on it. Again, this can be done by creating and training a machine learning model or using open source tools such as Coockoo Sandbox, Malware Analysis Sanbox, Droid Scope or Joe Sandbox. The result of this analysis can be used to further train the Static Analysis model.
+
+#### STEP 3 - Evaluation
+
+The analysis of top three malware cateogires (alsow knows as signatures) is as follows:
+
+* **Mirai** is a malware that turns networked devices running Linux into remotely controlled bots that can be used as part of a botnet in large-scale network attacks. It primarily targets online consumer devices such as IP cameras and home routers. This a growing thread for healthcare/hospital industry related IT infrastructure
+
+* **Agent Tesla** is a .Net-based Remote Access Trojan (RAT) and data stealer for gaining initial access that is often used for Malware-As-A-Service (MaaS) exploiting corporate networks.
+
+* **RedLine stealer** is distributed as cracked games, applications, and services. The malware steals information from web browsers, cryptocurrency wallets, and applications such as FileZilla, Discord, Steam, Telegram, and VPN clients. 
+
+  ![MW-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Visualization_2.png "MW-2")
+
+#### STEP 4 - Conclusion
+
+* Connecting to Malware Bazaar and downloading daily log malware information will help organizations such as hospital industry to plan for proactive measures to stop such attacks. Tools and software from companies like **Crowdstrike, Norton, Acamai, Cisco** can be deployed with advanced intelligence built-in, to either detect and remediate or prevent such attacks
 
 ## [↑](#table-of-contents) Visualization Display
 
-WIP data
+#### Preliminary Visualization for PhishTank – Approach 1 – Predictive Models for phishing URLs
+
+* Every plot displays a URL feature represented on the X-axis and the corresponding Label on the Y-axis. (1 = Phishing URL and 0 = Non-Malicious URL)
+* Each value of 1 represents a Phishing URL, while each value of 0 represents a Non-Malicious URL (Except for plot of URL_Depth) 
+
+![Ph-22](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_22.png "Ph-22")
+
+#### Preliminary Visualization for PhishTank Data – Approach 2 - Forensic Analytics Process
+
+* This visualization is a composite of three slicers visuals and a table visual. They work together to search for data within the table.
+* The first slicer is created by adding the verified column to the slicer well and similarly the target column is added the slicer well to create the target slicer.
+* The submission time slicer is a custom slicer that is configured to include a slider. This helps to quickly and easily specify a range of dates that should be filtered in the table.
+* The table visuals is synced to all three slicers and will dynamically filter the rows retuned in the table
+* The value add for this visual is in the presentation of forensic data. With this visual data can be easily queried and presented in a dashboard.
+
+  ![VS-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Visualization_1.png "VS-1")
+
+
+#### Preliminary Visualization for Malware Data 
+
+* The analysis of data received from MalwareBazaar reveals that malwares having signatures like “Mira”, “AgentTesla” and “RedLineStealer” are found more often malware attacks.
+
+* The analysis of these top three signature as follows:
+
+  * **Mirai** is a malware that turns networked devices running Linux into remotely controlled bots that can be used as part of a botnet in large-scale network attacks. It primarily targets online consumer devices such as IP cameras and home routers. This a growing thread for healthcare/hospital industry related IT infrastructure
+
+  * **Agent Tesla** is a .Net-based Remote Access Trojan (RAT) and data stealer for gaining initial access that is often used for Malware-As-A-Service (MaaS) exploiting corporate networks.
+
+  * **RedLine stealer** is distributed as cracked games, applications, and services. The malware steals information from web browsers, cryptocurrency wallets, and applications such as FileZilla, Discord, Steam, Telegram, and VPN clients. 
+
+  ![VS-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Visualization_2.png "VS-2")
 
 ## [↑](#table-of-contents) References
       

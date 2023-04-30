@@ -332,11 +332,11 @@ submission_time - The date and time at which this phish was reported to PhishTa
 
 For our case study, we have determined following analytical approaches for each of the data set
 
-1. PhishTank Data set : We have considered two analytical approaches, namely
+1. **PhishTank Data set** : We have considered two analytical approaches, namely
 * <B> Approach 1</B> - Predictive analysis using classification techniques for phishing URL patterns. Python models were trained to perform predictive analysis.
 * <B> Approach 2</B> - Forensic Analytics Process for phishing data focusing on source, targets and number of attempts. Power BI tool was used to analyze the data.
 
-2. Malware dataset : We will be using <B>static</B> and <B>dynamic</B> models for <B>“Malware Analysis”</B> technique
+2. **Malware dataset** : We will be using <B>static</B> and <B>dynamic</B> models for <B>“Malware Analysis”</B> technique
 
 ### PhishTank Analytics - Approach 1
 
@@ -354,6 +354,15 @@ For our case study, we have determined following analytical approaches for each 
 
 ![Ph-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_1.png "Ph-1")
 
+* Read Data File from AlexaRank (999999 row, 1 column)
+
+![Ph-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_2.png "Ph-2")
+
+* Took a Random Sample from AlexaRank of n=5000 (5000 Rows, 1 Columns)
+
+![Ph-3](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_3.png "Ph-3")
+
+* The subsequent actions involve extracting features from the URL. These features predominantly consist of categorical attributes, such as **the presence of an IP address, the occurrence of the "@" symbol, and the utilization of URL-shortening services**. Additionally, URL depth is considered a continuous attribute.
 
 ## [↑](#table-of-contents) Visualization Display
 

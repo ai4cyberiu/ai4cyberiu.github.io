@@ -365,6 +365,7 @@ For our case study, we have determined following analytical approaches for each 
 * The subsequent actions involve extracting features from the URL. These features predominantly consist of categorical attributes, such as **the presence of an IP address, the occurrence of the "@" symbol, and the utilization of URL-shortening services**. Additionally, URL depth is considered a continuous attribute.
 
   * Obtained the Domain of URL
+ 
     ![Ph-4](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_4.png "Ph-4")
 
 

@@ -472,10 +472,11 @@ For our case study, we have determined following analytical approaches for each 
  
     ![Ph-29](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_29.png "Ph-29")
 
-  * Summary
+  * Summary:
+
     After assessing various classification models, it was noted that the Random Forest Model consistently demonstrated the highest performance, achieving an   approximate prediction accuracy of 90%.
 
-    ![Ph-29](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_29.png "Ph-29")
+    ![Ph-30](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_30.png "Ph-30")
 
 ## [↑](#table-of-contents) Visualization Display
 

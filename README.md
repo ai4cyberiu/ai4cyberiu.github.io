@@ -349,6 +349,10 @@ For our case study, we have determined following analytical approaches for each 
 * **Final Notes**: Various classification models were assessed, with the Random Forest Model demonstrating the highest performance.
 
 #### URL Feature Extraction
+* Read Data File from PhishTank (61,528 rows, 8 columns)
+* Took a Random Sample from PhishTank of n=5000 ( 5000 Rows, 8 Columns)
+
+![Ph-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/PhishTank_Approach_1_1 "Ph-1")
 
 
 ## [↑](#table-of-contents) Visualization Display

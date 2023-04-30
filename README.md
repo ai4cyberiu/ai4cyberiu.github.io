@@ -329,14 +329,16 @@ submission_time - The date and time at which this phish was reported to PhishTa
   * To close the loop, the resulting analysis can be uploaded to PhishTank to help other organizations and individuals identify and prevent phishing attacks. By contributing to the community-driven platform, organizations can help each other to create a safer online environment for everyone.
 
 ## [↑](#table-of-contents) Analytical Approaches and Justification
+
 For our case study, we have determined following analytical approaches for each of the data set
 
 #### PhishTank Data set – We have considered two analytical approaches, namely
-* Predictive analysis using classification techniques for phishing URL patterns. Python models were trained to perform predictive analysis.
-* Forensic Analytics Process for phishing data focusing on source, targets and number of attempts. Power BI tool was used to analyze/slide data.
+* <B>Predictive analysis using classification techniques for phishing URL patterns</B>. Python models were trained to perform predictive analysis.
+* <B>Forensic Analytics Process for phishing data focusing on source, targets and number of attempts</B>. Power BI tool was used to analyze/slide data.
 
 ## [↑](#table-of-contents) Visualization Display
 
+WIP data
 
 ## [↑](#table-of-contents) References
       

@@ -332,7 +332,7 @@ submission_time - The date and time at which this phish was reported to PhishTa
 
 For our case study, we have determined following analytical approaches for each of the data set
 
-#### PhishTank Data set – We have considered two analytical approaches, namely
+PhishTank Data set – We have considered two analytical approaches, namely
 * <B>Predictive analysis using classification techniques for phishing URL patterns</B>. Python models were trained to perform predictive analysis.
 * <B>Forensic Analytics Process for phishing data focusing on source, targets and number of attempts</B>. Power BI tool was used to analyze/slide data.
 

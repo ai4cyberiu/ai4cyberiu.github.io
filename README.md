@@ -482,15 +482,15 @@ For our case study, we have determined following analytical approaches for each 
 
 * **Why Forensic Analysis**
 
-The data available in PhishTank can be better used in Forensic analysis over other analytical processes because of the litigious nature of the data. The data contains timestamps, company names, and phishing links. These data points bring with them legal ramifications that can positively or negatively affect a company. Forensic Analysis will ensure that companies identify, collect, preserve, analyze, extract, document, and present digital evidence.
+   The data available in PhishTank can be better used in Forensic analysis over other analytical processes because of the litigious nature of the data. The data contains timestamps, company names, and phishing links. These data points bring with them legal ramifications that can positively or negatively affect a company. Forensic Analysis will ensure that companies identify, collect, preserve, analyze, extract, document, and present digital evidence.
 
 * **Value Add**
 
-It is valuable for companies to collect and analyze as much phishing data regarding their company and it's subsidiaries as possible. The process of Forensic analysis not only provides important evidence for lawsuits but also protects the integrity of their systems. What better way to do that than with the worlds largest repository of phishing related information.
+   It is valuable for companies to collect and analyze as much phishing data regarding their company and it's subsidiaries as possible. The process of Forensic analysis not only provides important evidence for lawsuits but also protects the integrity of their systems. What better way to do that than with the worlds largest repository of phishing related information.
 
 * **Data Sources**
 
-Phishing URLs sourced from PhishTank
+   Phishing URLs sourced from PhishTank
 
    ![Ph-31](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_2_1.png "Ph-31")
 

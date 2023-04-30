@@ -368,6 +368,57 @@ For our case study, we have determined following analytical approaches for each 
  
     ![Ph-4](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_4.png "Ph-4")
 
+  * Determine if the URL contains an IP address
+
+    ![Ph-5](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_5.png "Ph-5")
+
+  * Determine if the URL contains an “@” character
+
+    ![Ph-6](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_6.png "Ph-6")
+
+  * Determine if URL length > 54
+
+    ![Ph-7](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_7.png "Ph-7")
+
+  * Determine the URL depth
+
+    ![Ph-8](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_8.png "Ph-8")
+
+  * Determine if URL redirection is present (“//”)
+
+    ![Ph-9](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_9.png "Ph-9")
+
+  * Determine if HTTPS token is present in the domain
+
+    ![Ph-10](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_10.png "Ph-10")
+
+  * Determine if URL shortening services are used
+
+    ![Ph-11](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_11.png "Ph-11")
+    
+    ![Ph-12](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_12.png "Ph-12")
+
+  * Determine if Prefix or Suffix separated by “-” in the Domain
+
+    ![Ph-13](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_13.png "Ph-13")
+
+* Create a Function to extract Features
+   
+ ![Ph-14](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_14.png "Ph-14")
+    
+ ![Ph-15](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_15.png "Ph-15")
+
+* Prepare  CSV File “legitimate.csv”
+
+![Ph-17](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_17.png "Ph-17")
+
+* Prepare  CSV File “phishing.csv”
+
+![Ph-18](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_18.png "Ph-18")
+
+* Merge the genuine and fraudulent URL datasets and store the information in a CSV file named "urldata.csv" to be utilized for machine learning purposes, specifically classification.
+
+![Ph-19](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/PhishTank_Approach_1_19.png "Ph-19")
 
 ## [↑](#table-of-contents) Visualization Display
 

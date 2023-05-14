@@ -14,8 +14,8 @@
  - [Data Collection Strategies](#-data-collection-strategies)
  - [Analytical Approaches and Justification](#-analytical-approaches-and-justification)
  - [Visualization Display](#-visualization-display)
- - [Implications of Key Insights and Intelligence Summary](#implications-of-key-insights-and-intelligence-summary)
- - [Operational Intelligence](#operational-intelligence)
+ - [Implications of Key Insights and Intelligence Summary](#-implications-of-key-insights-and-intelligence-summary)
+ - [Operational Intelligence](#-operational-intelligence)
  - [References](#-references)
   
 ### [↑](#table-of-contents) Team Composition

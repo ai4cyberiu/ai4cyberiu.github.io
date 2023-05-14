@@ -14,6 +14,8 @@
  - [Data Collection Strategies](#-data-collection-strategies)
  - [Analytical Approaches and Justification](#-analytical-approaches-and-justification)
  - [Visualization Display](#-visualization-display)
+ - [Implications of Key Insights and Intelligence Summary](#implications-of-key-insights-and-intelligence-summary)
+ - [Operational Intelligence](#operational-intelligence)
  - [References](#-references)
   
 ### [↑](#table-of-contents) Team Composition
@@ -620,6 +622,20 @@ The analysis of top three malware cateogires (alsow knows as signatures) is as f
   * **RedLine stealer** is distributed as cracked games, applications, and services. The malware steals information from web browsers, cryptocurrency wallets, and applications such as FileZilla, Discord, Steam, Telegram, and VPN clients. 
 
   ![VS-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Visualization_2.png "VS-2")
+
+## [↑](#table-of-contents) Implications of Key Insights and Intelligence Summary
+
+### Implications Key Insights and Intelligence summary – PhishTank Data
+
+* From milestone 3, we discovered that Phish Tank data can be reviewed / analyzed via Python based ML models such as “Random Forest”. The intelligence derived was pointing at most “probable” URLs which may cause phishing attack on company’s assets. Implications of such insights would be:
+
+  * Once ML model identifies a URL or a pattern which would appear in emails sent to employees or links in company’s bulletins, there should be a process in place which “warns” the user before they click on those links.
+  * Conversely, the programs which are monitoring such URLs should have ability to shut them down or disable them from entering any of company’s systems (such as emails, alerts, website updates or remote shell incursions).
+
+From milestone 3, we also learnt the sources from where such phishing attacks may happen. The insights derived from that learning are:
+
+The alert mechanism put in place should detect incoming traffic from such domains or IP addresses or impersonations. The detection should be converted into a cyber incident where cyber security experts would analyze the incoming request or URL or content. 
+Solutions like Web defenders or WAF (web access firewall) should be deployed to protect internal assets.
 
 ## [↑](#table-of-contents) References
       

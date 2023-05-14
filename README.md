@@ -632,10 +632,28 @@ The analysis of top three malware cateogires (alsow knows as signatures) is as f
   * Once ML model identifies a URL or a pattern which would appear in emails sent to employees or links in company’s bulletins, there should be a process in place which “warns” the user before they click on those links.
   * Conversely, the programs which are monitoring such URLs should have ability to shut them down or disable them from entering any of company’s systems (such as emails, alerts, website updates or remote shell incursions).
 
-From milestone 3, we also learnt the sources from where such phishing attacks may happen. The insights derived from that learning are:
+* From milestone 3, we also learnt the sources from where such phishing attacks may happen. The insights derived from that learning are:
 
-The alert mechanism put in place should detect incoming traffic from such domains or IP addresses or impersonations. The detection should be converted into a cyber incident where cyber security experts would analyze the incoming request or URL or content. 
-Solutions like Web defenders or WAF (web access firewall) should be deployed to protect internal assets.
+  * The alert mechanism put in place should detect incoming traffic from such domains or IP addresses or impersonations. The detection should be converted into a cyber incident where cyber security experts would analyze the incoming request or URL or content. 
+  * Solutions like Web defenders or WAF (web access firewall) should be deployed to protect internal assets.
+
+### Implications Key Insights and Intelligence summary – Malware Data
+
+* Data analysis reveled the attacks with signatures like Mirai, Agent Tesla, RedLine Stealer, Cryptowallet as rising in numbers every day, these various forms of attacks compromise applications, systems, data security and financial stability of the company.
+
+* Connecting to Malware Bazaar and downloading daily log malware information will help organizations such as hospitals to plan for proactive measures to stop such attacks. 
+
+* Tools and software from companies like Crowdstrike, Norton, Akamai, Cisco can be deployed with advanced intelligence built-in when the data shows a new malware that can affect the hospital, so it can be proactively evaluated and mitigated (if needed)
+
+* These tools can not only detect and eliminate such attacks but can also build intelligence within systems to tackle attacks of similar nature or having similar patterns. This is called “resilient system developments”
+
+* The signature or pattern of such attacks may change frequently so it’s important to continue to analyze data available from sources such as malware bazaar to keep system intelligence updated frequently. 
+
+## [↑](#table-of-contents) Operational Intelligence
+
+Based on findings collected so far, we propose following operational intelligene: 
+
+ ![VS-2](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Visualization_2.png "VS-2")
 
 ## [↑](#table-of-contents) References
       

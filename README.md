@@ -653,7 +653,7 @@ The analysis of top three malware cateogires (alsow knows as signatures) is as f
 
 Based on findings collected so far, we propose following operational intelligene: 
 
- ![OI-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/dcd67c7eb317a9e5bfc936790ce114fbe3ea212d/Operational_Intelligence_1.png "OI-1")
+ ![OI-1](https://raw.githubusercontent.com/ai4cyberiu/ai4cyberiu.github.io/main/Operational_Intelligence_1.png "OI-1")
 
 ## [↑](#table-of-contents) References
       
